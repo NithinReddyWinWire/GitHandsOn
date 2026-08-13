@@ -1,1 +1,2 @@
-A Folder to practice Git
+A Folder to practice Git 
+Practising the commands
